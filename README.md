@@ -18,6 +18,20 @@ This assignment is designed to get you to _a_) practice advanced HTML, _b_) auth
 ![Image of focus.jpg](comps/focus.jpg)
 
 ---
+
+## ❖・Preflight・❖
+
+1. Like assignment 2, ensure _editorconfig_, _Stylelint_, and _HTMLHint_ are installed as CLI tools via Node and as plugins in VS code.
+2. You’ll also need to install `stylelint-config-sass-guidelines`. Install via the following command:
+
+```bash
+npm i -D stylelint postcss stylelint-config-sass-guidelines
+```
+
+**Note**: Ignore any errors in VS Code akin to _“The value of the href attribute ... must be relative.”_
+
+---
+
 ## ❖・Due・❖
 
 Monday, 10 April 2023, by 9:45 AM.
