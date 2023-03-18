@@ -32,6 +32,23 @@ npm i -D stylelint postcss stylelint-config-sass-guidelines
 
 ---
 
+## ❖・Assets・❖
+
+All the image-related assets you’ll need are in the `img` folder. All the fonts are in the `fonts` folder.
+
+### Fonts
+
+The PSD comp in `comps/focus.psd` uses three typefaces: Pacifico, Raleway, and Helvetica Neue. The regular weight of Pacifico and the regular, light, and semibold versions of Raleway are include in the `fonts` directory. Helvetica Neue, however, isn’t included, since it’s not open source. Employ Helvetica Neue in the `font-family` property and fall back to Helvetica.
+
+* Pacifico Regular (normal): `fonts/Pacifico/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2`
+* Raleway Regular (normal): `fonts/Raleway/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2`
+* Raleway Light: `fonts/Raleway/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2`
+* Raleway SemiBold: `fonts/Raleway/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2`
+* **Pacifico**: [`https://www.google.com/fonts/specimen/Pacifico`](https://www.google.com/fonts/specimen/Pacifico)
+* **Raleway**: [`https://www.google.com/fonts/specimen/Raleway`](https://www.google.com/fonts/specimen/Raleway)
+
+---
+
 ## ❖・Directions・❖
 
 * Do **not** add any more files — of any type — to this project. Everything you need is included already.
