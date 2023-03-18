@@ -69,7 +69,7 @@ The PSD comp in `comps/focus.psd` uses three typefaces: Pacifico, Raleway, and H
 |----------------------------------------------------------|:------:|
 | _Project implements pixel-perfect translation of mockup_ | `25`   |
 | _HTML is valid_                                          | `25`   |
-| _CSS is valid_                                           | `25`   |
+| _Sass is valid_                                          | `25`   |
 | _Code is neat and professional_                          | `25`   |
 
 ---
