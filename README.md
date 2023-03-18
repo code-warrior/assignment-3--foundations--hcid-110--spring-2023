@@ -38,7 +38,7 @@ All the image-related assets you’ll need are in the `img` folder. All the font
 
 ### Fonts
 
-The PSD comp in `comps/focus.psd` uses three typefaces: Pacifico, Raleway, and Helvetica Neue. The regular weight of Pacifico and the regular, light, and semibold versions of Raleway are include in the `fonts` directory. Helvetica Neue, however, isn’t included, since it’s not open source. Employ Helvetica Neue in the `font-family` property and fall back to Helvetica.
+The PSD comp in `comps/focus.psd` uses three typefaces: Pacifico, Raleway, and Helvetica Neue. The regular weight of Pacifico and the regular, light, and semibold versions of Raleway are include in the `fonts` directory. Helvetica Neue, however, isn’t included, because it isn’t open source. Employ Helvetica Neue in the `font-family` property and fall back to Helvetica.
 
 * Pacifico Regular (normal): `fonts/Pacifico/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2`
 * Raleway Regular (normal): `fonts/Raleway/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2`
