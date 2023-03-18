@@ -10,6 +10,14 @@
 4. Checkout your personalized branch, the one with your name and GitHub handle.
 
 ---
+
+## ❖・Introduction・❖
+
+This assignment is designed to get you to _a_) practice advanced HTML, _b_) author more advanced CSS, and _c_) to start working with Sass. You’ll do so by implementing a web page — pixel-by-pixel — of the follow mockup, which you’ll find in `comps/focus.jpg`.
+
+![Image of focus.jpg](comps/focus.jpg)
+
+---
 ## ❖・Due・❖
 
 Monday, 10 April 2023, by 9:45 AM.
