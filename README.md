@@ -32,6 +32,17 @@ npm i -D stylelint postcss stylelint-config-sass-guidelines
 
 ---
 
+## ❖・Directions・❖
+
+* You may **not** use any third-party HTML, CSS, or Sass libraries for this project. **All the code you include in this project _must_ be your own.**
+* **Note** that the `style.css` file and the `css` folder you’ll need to create for this project will be ignored by default. This is fine, since I’ll build your CSS from the Sass code you submit.
+* **No embedded or inline CSS is allowed.**
+* Do **not** add any more files — of any type — to this project. Everything you need is included already.
+* Your HTML must be valid.
+* Your Sass must also be valid.
+
+---
+
 ## ❖・Due・❖
 
 Monday, 10 April 2023, by 9:45 AM.
