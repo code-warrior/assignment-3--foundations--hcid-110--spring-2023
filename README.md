@@ -22,7 +22,7 @@ This assignment is designed to get you to _a_) practice advanced HTML, _b_) auth
 ## ❖・Preflight・❖
 
 1. Like assignment 2, ensure _editorconfig_, _Stylelint_, and _HTMLHint_ are installed as CLI tools via Node and as plugins in VS code.
-2. You’ll also need to install `stylelint-config-sass-guidelines`. Install via the following command:
+2. You’ll also need to install `stylelint-config-sass-guidelines`. Do so via the following command:
 
 ```bash
 npm i -D stylelint postcss stylelint-config-sass-guidelines
