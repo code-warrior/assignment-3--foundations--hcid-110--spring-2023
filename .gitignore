@@ -1,0 +1,14 @@
+*
+
+!README.md
+!.editorconfig
+!.gitignore
+!.htmlhintrc
+!.stylelintrc.json
+
+!index.html
+
+!img/
+!scss/
+!comps/
+!fonts/
