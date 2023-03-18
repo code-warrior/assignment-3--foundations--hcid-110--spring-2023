@@ -43,6 +43,17 @@ npm i -D stylelint postcss stylelint-config-sass-guidelines
 
 ---
 
+## ❖・Grading・❖
+
+| Item                                                     | Points |
+|----------------------------------------------------------|:------:|
+| _Project implements pixel-perfect translation of mockup_ | `25`   |
+| _HTML is valid_                                          | `25`   |
+| _CSS is valid_                                           | `25`   |
+| _Code is neat and professional_                          | `25`   |
+
+---
+
 ## ❖・Due・❖
 
 Monday, 10 April 2023, by 9:45 AM.
