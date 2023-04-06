@@ -5,13 +5,18 @@
 @use 'variables' as *;
 
 body {
-  margin: 30px;
+  margin: 100px;
 }
 
-header,
-h1 {
+header {
   text-align: center;
-  @font-face {
+  font-size: 40px;
+  b {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 170px;
+  }
+  h1 {
     font-family: 'Pacifico';
     font-style: normal;
     font-weight: 400;
@@ -20,6 +25,26 @@ h1 {
   }
 }
 
+body{
+  h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Raleway'), local('Raleway-Regular'), url('../fonts/Raleway/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+  }
+}
+
+body{
+  p{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Raleway Light'), local('Raleway-Light'), url('../fonts/Raleway/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+    font-size: 20px;
+  }
+}
 footer {
   text-align: center;
 }
