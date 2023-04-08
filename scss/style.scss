@@ -56,12 +56,15 @@ div {
   padding: 12px;
   width: 200px;
   div:nth-child(1) {
+    float: left;
+    display: block;
     background-color: white;
-    position: left;
+    text-align: left;
   }
   div:nth-child(2) {
-    background-color: red;
-    position: right;
+    float: right;
+    display: block;
+    justify-content: right;
   }
 }
 
