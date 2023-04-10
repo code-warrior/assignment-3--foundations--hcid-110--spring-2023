@@ -122,28 +122,24 @@ div {
 
 .gray {
   background-color: $inline--color;
-  //margin-top: 80px;
-  position: absolute;
+  margin-top: 80px;
   display: block;
+  position: absolute;
   width: 100%;
   bottom: -800px;
   #large-icons,
-  div {
-    &:nth-of-type(3) {
-      float: right;
-      display: flex;
-      position: absolute;
-      top: 150px;
-      width: 500px;
-      height: 50px;
-      margin: 40px 100px 60px 270px;
-    }
+  h4,
+  p {
+    float: right;
+    display: block;
+    width: 500px;
+    height: 150px;
   }
   #video {
     img:nth-child(1) {
       display: flex;
       position: relative;
-      top: 100px;
+      top: 200px;
       left: 1000px;
     }
     img:nth-child(2) {
